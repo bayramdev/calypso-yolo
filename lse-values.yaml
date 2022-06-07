@@ -1,0 +1,11 @@
+global:
+  persistence:
+    enabled: true
+    type: s3
+    config:
+      s3:
+        accessKey: "iclxumwyv@knowledgemd.com"
+        secretKey: "M53DczhktuPEw0/lMkQi4q4ngeXzCtLie7z3R1e5"
+        bucket: "rapturestatic"
+        region: "us-east-1"
+        folder: "calypso-yolo"
